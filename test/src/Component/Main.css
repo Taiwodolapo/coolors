@@ -1,0 +1,36 @@
+.Main{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px 
+    
+}
+.Super{
+    text-align: center;
+    padding-left: 200px;
+}
+
+.Super p{
+    font-size: 10px;
+}
+.Super h1{
+    font-size: 50px;
+}
+.Super button{
+    width: 50%;
+    height: 40px;
+}
+#start{
+    background: #0066ff;
+    color: aliceblue;
+    
+}
+button{
+    border-radius: 10px;
+    border: 1px solid;
+    font-size: 10px;
+    font-weight: bold;
+}
+.Image img{
+   width: 600px;
+   height: 400px;
+}

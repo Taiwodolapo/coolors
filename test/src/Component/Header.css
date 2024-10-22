@@ -1,0 +1,47 @@
+.Navbar{
+    background: rgb(242, 244, 240);
+    width: 100%;
+    display: flex;
+    padding: 10px 30px;
+    
+}
+.ima{
+    width: 80px;
+    height: 25px;
+}
+.cool h3{
+    color: blue;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.cool p {
+    font-size: 10px;
+}
+.cool{
+    display: flex;
+    gap: 60px;
+    font-size: 12px;
+}
+.Tools{
+    display: flex;
+    gap: 20px;
+    place-items: center;
+    padding-left: 45%;
+    font-size: 10px;
+}
+.Tools p{
+    color: palevioletred;
+    
+}
+.Signin{
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 12px;
+}
+.Signup{
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 12px;
+    background: #0066ff;
+    color: aliceblue;
+}

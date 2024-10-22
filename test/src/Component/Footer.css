@@ -1,0 +1,22 @@
+.Footer{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+   padding-left: 15%;
+    background: #f7f7f8;
+    padding-top: 40px;
+    line-height: 2;
+}
+
+.Footer h3{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.below{
+    background: #f7f7f8;
+    height: 50px;
+    width: 100%;
+}
+.Footer p{
+    font-size: 12px;
+}
+

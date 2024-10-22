@@ -1,0 +1,26 @@
+.Card{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.used{
+  padding:0px 30%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.App{
+    background: #f7f7f8;
+    width: 70%;
+}
+.Card p{
+    font-size: 12px;
+}
+.App p{
+    line-height: 1.8;
+}
+.App img{
+    width: 50px;
+    height: 50px;
+}
