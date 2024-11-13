@@ -26,7 +26,8 @@ function Footer() {
             <p>Font Generator</p>
             </div>
 
-        <div><h3>Jobs</h3> <br />
+        <div>
+        <h3>Jobs</h3> <br />
         <p>Find your next job</p>
         <p>Post a job</p> <br />
         <h3>Apps</h3> <br />
@@ -38,7 +39,8 @@ function Footer() {
         <p>Instagram Page</p>
         </div>
 
-        <div><h3>Company</h3> <br />
+        <div>
+        <h3>Company</h3> <br />
         <p>Pricing</p>
         <p>Licence</p>
         <p>Terms of service</p>
